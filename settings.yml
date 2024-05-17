@@ -1,0 +1,9 @@
+model:
+  name: 'gpt-3.5-turbo'
+  # name: 'gpt2'
+
+
+inter_text_file: extracted_text.txt
+source_pdf_file: C:/Users/91910/OneDrive/Documents/Sem-7/Karan Shah Latest Resume.pdf
+
+result_file: result.json
